@@ -1,7 +1,4 @@
-# B3-4T — Autonomous Tennis Ball Collector Robot
-
-**Engineering internship — RIMUEL (Aix-en-Provence, France) — April to June 2025**
-*ISMIN Engineering Track, Mines Saint-Étienne*
+# Autonomous Tennis Ball Collector Robot
 
 ---
 
